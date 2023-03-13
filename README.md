@@ -1,6 +1,6 @@
 # website-flow
 mes 4 fromages préférés sur une pizza sont : 
-- la mozarella
+- la mogizarella
 - le gruyère
 - le gorgonzola
 - le chèvre 
